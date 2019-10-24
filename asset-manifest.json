@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apk/static/css/main.5bd73751.chunk.css",
+    "main.js": "/apk/static/js/main.9c78c48e.chunk.js",
+    "main.js.map": "/apk/static/js/main.9c78c48e.chunk.js.map",
+    "runtime-main.js": "/apk/static/js/runtime-main.af2eedc5.js",
+    "runtime-main.js.map": "/apk/static/js/runtime-main.af2eedc5.js.map",
+    "static/js/2.75e951ca.chunk.js": "/apk/static/js/2.75e951ca.chunk.js",
+    "static/js/2.75e951ca.chunk.js.map": "/apk/static/js/2.75e951ca.chunk.js.map",
+    "index.html": "/apk/index.html",
+    "precache-manifest.81e694bcf6d0dc8c13f9369925678021.js": "/apk/precache-manifest.81e694bcf6d0dc8c13f9369925678021.js",
+    "service-worker.js": "/apk/service-worker.js",
+    "static/css/main.5bd73751.chunk.css.map": "/apk/static/css/main.5bd73751.chunk.css.map",
+    "static/media/logo.svg": "/apk/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af2eedc5.js",
+    "static/js/2.75e951ca.chunk.js",
+    "static/css/main.5bd73751.chunk.css",
+    "static/js/main.9c78c48e.chunk.js"
+  ]
+}
