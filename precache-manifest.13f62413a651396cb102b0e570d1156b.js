@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "126c67ce0dcc854e685e1d74dcd42cde",
+    "revision": "813cfb1d23c5a0c6656a8771c7b89223",
     "url": "/apk/index.html"
   },
   {
-    "revision": "51bd63c260c7766efbbf",
+    "revision": "25a2f1f55d9d7be70d1d",
     "url": "/apk/static/css/main.5bd73751.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apk/static/js/2.75e951ca.chunk.js"
   },
   {
-    "revision": "51bd63c260c7766efbbf",
-    "url": "/apk/static/js/main.9c78c48e.chunk.js"
+    "revision": "25a2f1f55d9d7be70d1d",
+    "url": "/apk/static/js/main.adb1d45a.chunk.js"
   },
   {
     "revision": "15d39b9da93a0c014110",
