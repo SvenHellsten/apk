@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/apk/static/css/main.8c90e8ab.chunk.css",
-    "main.js": "/apk/static/js/main.97a5b781.chunk.js",
-    "main.js.map": "/apk/static/js/main.97a5b781.chunk.js.map",
+    "main.js": "/apk/static/js/main.05d2a17e.chunk.js",
+    "main.js.map": "/apk/static/js/main.05d2a17e.chunk.js.map",
     "runtime-main.js": "/apk/static/js/runtime-main.af2eedc5.js",
     "runtime-main.js.map": "/apk/static/js/runtime-main.af2eedc5.js.map",
     "static/js/2.c858c426.chunk.js": "/apk/static/js/2.c858c426.chunk.js",
     "static/js/2.c858c426.chunk.js.map": "/apk/static/js/2.c858c426.chunk.js.map",
     "index.html": "/apk/index.html",
-    "precache-manifest.cdc25427180ddbfc4012fec48baa7f87.js": "/apk/precache-manifest.cdc25427180ddbfc4012fec48baa7f87.js",
+    "precache-manifest.5a6e29310f5c3acd8c819fcc6371f045.js": "/apk/precache-manifest.5a6e29310f5c3acd8c819fcc6371f045.js",
     "service-worker.js": "/apk/service-worker.js",
     "static/css/main.8c90e8ab.chunk.css.map": "/apk/static/css/main.8c90e8ab.chunk.css.map",
     "static/media/logo.svg": "/apk/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.af2eedc5.js",
     "static/js/2.c858c426.chunk.js",
     "static/css/main.8c90e8ab.chunk.css",
-    "static/js/main.97a5b781.chunk.js"
+    "static/js/main.05d2a17e.chunk.js"
   ]
 }
